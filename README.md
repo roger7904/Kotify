@@ -4,6 +4,7 @@
 
 > **hint**：本工具會提供一個 macOS 版本的 `.dmg` 檔案，可以直接下載並安裝使用。
 
+[<a href="url"><img src="docs/cover.png" width="800" style="border-radius:2%"></a>](https://drive.google.com/file/d/1D7VxVcG9O2NOk2M_9F1BIEz3vHQjkKZi/view?usp=sharing)
 ---
 
 ## 功能特色
